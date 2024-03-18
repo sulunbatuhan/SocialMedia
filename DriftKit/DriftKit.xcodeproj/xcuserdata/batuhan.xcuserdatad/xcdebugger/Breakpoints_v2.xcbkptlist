@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E98820CD-0D7D-41D9-ACB0-D73BC6BBAAE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4779B9C4-9DED-4625-B209-7CACB5005237"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/App/Math.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18794CB7-082C-49D9-A824-5E1215E51B76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/LoginController/RegisterGroup/RegisterController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18794CB7-082C-49D9-A824-5E1215E51B76 - dba633a64869ceae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriftKit.RegisterController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "DriftKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/LoginController/RegisterGroup/RegisterController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104">
+               </Location>
+               <Location
+                  uuid = "18794CB7-082C-49D9-A824-5E1215E51B76 - dba633a64869ceae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriftKit.RegisterController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "DriftKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/LoginController/RegisterGroup/RegisterController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F263F29E-8087-4254-92BE-CD6B5B4FEA01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Controllers/ProfileController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "picker(_:didFinishPicking:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F263F29E-8087-4254-92BE-CD6B5B4FEA01 - 2f7d4dfd1c4998dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriftKit.ProfileController.picker(_: __C.PHPickerViewController, didFinishPicking: Swift.Array&lt;PhotosUI.PHPickerResult&gt;) -&gt; ()"
+                  moduleName = "DriftKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Controllers/ProfileController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195">
+               </Location>
+               <Location
+                  uuid = "F263F29E-8087-4254-92BE-CD6B5B4FEA01 - 187bce197bdc35e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSItemProviderReading&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (PhotosUI.PHPickerResult) -&gt; () in DriftKit.ProfileController.picker(_: __C.PHPickerViewController, didFinishPicking: Swift.Array&lt;PhotosUI.PHPickerResult&gt;) -&gt; ()"
+                  moduleName = "DriftKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Controllers/ProfileController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2635208F-FC71-4292-878D-5898F8E72871"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Coordinator/LoginCoordinator/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "checkConnection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC93E7E3-51C0-4B83-BBD8-697250CBE3E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Coordinator/LoginCoordinator/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "checkConnection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43A75D52-E4CE-424F-AA25-2993A5045C2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Coordinator/CameraCoordinator/CameraCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D265D39-2FCC-41F6-8B71-A94CB3B66676"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Coordinator/CameraCoordinator/CameraController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "shareButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9426E941-FEEC-49D2-BC06-9D1E2B2C6C1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mock/MockDatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "MockDatabaseManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80A5E69A-C2A1-482D-8DF4-C9AC2062DCC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/StorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "savePostToStorage(selectedImage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80A5E69A-C2A1-482D-8DF4-C9AC2062DCC5 - 90e9b71b9900a7e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social.StorageManager.savePostToStorage(selectedImage: __C.UIImage) async throws -&gt; (Foundation.URL, Swift.String)"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/StorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "80A5E69A-C2A1-482D-8DF4-C9AC2062DCC5 - b2804e5ce8c45892"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Social.StorageManager.savePostToStorage(selectedImage: __C.UIImage) async throws -&gt; (Foundation.URL, Swift.String)"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/StorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2665EC7-0974-485C-AEC0-CD4560EAC073"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Coordinator/ProfileCoordinator/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "singOut()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0BACA48-2DD1-4179-AEB5-9A02DD4031BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "isUserExist(with:username:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C115ABF-0342-4A32-B25B-F127A9C6D581"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "saveToDatabaseUser(email:username:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C115ABF-0342-4A32-B25B-F127A9C6D581 - a05b680541154dd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "3C115ABF-0342-4A32-B25B-F127A9C6D581 - 76f7c3dea7fb81d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "3C115ABF-0342-4A32-B25B-F127A9C6D581 - 115a12fbeec427e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "773BD7E8-EE2F-4FB1-9647-A9389F317F1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "saveToDatabaseUser(email:username:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AEB59AE-A2E1-469E-8C76-B6C7AF8DBEA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "saveToDatabaseUser(email:username:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AEB59AE-A2E1-469E-8C76-B6C7AF8DBEA0 - a05b680541154dbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+               <Location
+                  uuid = "1AEB59AE-A2E1-469E-8C76-B6C7AF8DBEA0 - 8ce83e9f48fde385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+               <Location
+                  uuid = "1AEB59AE-A2E1-469E-8C76-B6C7AF8DBEA0 - dd388e291b4e09b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Social.AuthenticationManager.saveToDatabaseUser(email: Swift.String, username: Swift.Optional&lt;Swift.String&gt;, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "Social"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batuhan/Documents/DriftKit/DriftKit/Manager/AuthenticationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "453D8BBD-1DA4-4438-BFD4-9B03385CABDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriftKit/Manager/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "saveToDatabaseUser(email:username:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
